@@ -1,5 +1,9 @@
 SMSBotBypass v1
 
+If You Are Looking for a More Advanced System, It's Here
+
+https://github.com/CoreLine76/OTP-BYPASS-and-SMS-BOT-V-3
+
 Bypass SMS verifications from Paypal, Instagram, Snapchat, Google, 3D Secure, and many others... using a Discord Bot or the private API.
 
 It's really simple. Imagine that your friend got a Snapchat account, you try to reset his password using the sms system :
